@@ -24,6 +24,7 @@ Example 2
 ![image](https://github.com/ZuanAce/BIC10204_FinalProject/assets/147037911/bcf9d350-9c8b-44b5-9971-b7c8b95dbcbc)
 
 Example 3
+
 ![image](https://github.com/ZuanAce/BIC10204_FinalProject/assets/147037911/93924ba2-cf0a-4161-a710-368c8d1b742a)
 
 To elaborate more, if the gender input is not equal to female or male, then the program will eventually terminate itself. Same goes to the level of activity, if the user input value does not meet the requirement, the program will be terminated. For instance, example 2 shows the sample output that is invalid as a result of the user not inputting the value in between 1-5 for level of activity. Example 3, on the other hand, shows an invalid output due to the gender input not equal
